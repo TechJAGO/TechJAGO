@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TechJAGO
-- 👀 I’m interested in being a backend developer
-- 🌱 I’m currently learning .Net core
-- 💞️ I’m looking to collaborate on basically anything related to Linux and programming ...Python or C#
+- 👀 I’m interested in being a Fullstack developer
+- 🌱 I’m currently learning MERN stack and have created multiple projects on the same.
+- 💞️ I’m looking to collaborate on basically anything related to Linux and programming ...MERN / NextJS/ Typescript
 - 📫 Mail me @gohiljatin22@gmail.com
 
 <!---
